@@ -121,7 +121,7 @@ class MyFileUtil{
 	}
 }
 
-public class NomuraProblem{
+public class NamuraProblem{
 	public static void main(String [] args){		
 		try{
 			//MyFileUtil.readFile("./myFileOne.txt");
