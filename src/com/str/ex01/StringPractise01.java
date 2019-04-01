@@ -10,6 +10,7 @@ public class StringPractise01 {
 			s2 = "Hello";
 			System.out.println("s1 hachcode "+s1.hashCode());
 			System.out.println("s2 hachcode "+s2.hashCode());
+			System.out.println(s1 == s2);
 		}catch(Exception e) {
 			e.printStackTrace();
 		}
